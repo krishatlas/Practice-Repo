@@ -1,2 +1,2 @@
-# Practice-Repo
-This is just a practice repository.
+# GitHub Workflow Demo
+This project demonstrates a real-world GitHub PR workflow.
