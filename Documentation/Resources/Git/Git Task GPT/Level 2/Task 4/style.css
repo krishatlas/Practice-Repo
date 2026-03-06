@@ -1,0 +1,23 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    padding: 30px;
+}
+
+button {
+    padding: 10px 20px;
+    background: blue;
+    color: hsl(0, 0%, 100%);
+    border: none;
+    border-radius: 5px;
+
+}
+
+button:hover {
+    background: darkgreen;
+}
+
+
+* {
+    background: green;
+}

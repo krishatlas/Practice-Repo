@@ -1,0 +1,36 @@
+Task 1 --> 27/1/26 to 30/1/26   ==> TASK 1
+
+What is devops? Why we are using? 5 W's of Devops
+Responsibilites?
+Emerging new Ides in DEvops - DevSecOps MlOps AiOps
+
+Pipes(|) in Linux 
+Linux OS?
+Hypervisor Type I and II?
+
+What is Git?
+
+Task 2 --> 30/1/26 to 4/2/26
+Architecture Diagram of DevOps - An entire overview of How DevOps work occur.
+Why this Tool and which to use at what time
+
+SSH 
+What is SSH?
+Purpose and Utilizations of SSH
+
+Environments required to run pipeline or SDLF?
+
+Continuous Integration in Detail
+
+Agile, Waterfall Models VS DevOps
+
+SVN
+Why earlier SVN was used and Now we transferred to Git
+
+Types of Corruption Level
+-> RSA
+-> Base 64
+
+Cronjob
+
+Notification
